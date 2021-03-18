@@ -54,6 +54,7 @@ dependencies {
     implementation project(':insets')
     implementation project(':pager')
     implementation project(':flowlayout')
+    implementation project(':swiperefresh')
 
     implementation Libs.AndroidX.appcompat
 
